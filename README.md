@@ -1,2 +1,2 @@
-# PD_Uzvards
+# PD_Lebede
 Patstavigais praktiskais darbs programmesana
